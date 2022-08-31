@@ -2,9 +2,8 @@ from lxml import html
 from urllib.parse import urlparse
 import re
 import aiohttp
-
-from module import AsyncUnshortenModule
-from exceptions import AsyncUnshortenFailed
+from async_unshortenit.module import AsyncUnshortenModule
+from async_unshortenit.exceptions import AsyncUnshortenFailed
 import asyncio
 
 

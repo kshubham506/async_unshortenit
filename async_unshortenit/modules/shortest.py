@@ -5,8 +5,8 @@ import json
 import aiohttp
 
 
-from module import AsyncUnshortenModule
-from exceptions import AsyncUnshortenFailed
+from async_unshortenit.module import AsyncUnshortenModule
+from async_unshortenit.exceptions import AsyncUnshortenFailed
 
 
 class ShorteSt(AsyncUnshortenModule):

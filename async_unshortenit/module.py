@@ -1,7 +1,7 @@
 import re
 from urllib.parse import urlsplit
 import aiohttp
-from exceptions import AsyncNotFound
+from async_unshortenit.exceptions import AsyncNotFound
 from typing import Tuple
 
 

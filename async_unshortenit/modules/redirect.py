@@ -1,5 +1,5 @@
 
-from module import AsyncUnshortenModule
+from async_unshortenit.module import AsyncUnshortenModule
 
 class Redirect(AsyncUnshortenModule):
 

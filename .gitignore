@@ -1,4 +1,6 @@
 *.pyc
-venv
 __pycache__
 test.*
+.venv*
+.vscode
+.pytest_cache

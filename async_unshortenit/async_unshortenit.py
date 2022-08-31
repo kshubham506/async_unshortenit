@@ -1,8 +1,8 @@
 from typing import List
 import aiohttp
-from module import AsyncUnshortenModule
-from modules import AdfLy, AdFocus, ShorteSt, MetaRefresh
-from __version__ import __version__
+from .module import AsyncUnshortenModule
+from .modules import AdfLy, AdFocus, ShorteSt, MetaRefresh
+from async_unshortenit import __version__
 
 
 DEFAULT_HEADERS = {
