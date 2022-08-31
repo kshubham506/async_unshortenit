@@ -1,0 +1,8 @@
+__title__ = "async-unshortenit"
+__description__ = "Unshortens ad-based shorteners and any 301 redirected urls."
+__url__ = "https://github.com/kshubham506/async_unshortenit"
+__version__ = "0.1.0"
+__author__ = "Shubham Kumar"
+__author_email__ = "kshubham506@gmail.com"
+__license__ = "MIT"
+__copyright__ = "Copyright 2018 Shubham Kumar"
